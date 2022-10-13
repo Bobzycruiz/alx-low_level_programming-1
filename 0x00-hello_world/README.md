@@ -10,4 +10,5 @@ File 4. A C program that prints exactly "Programming is like building a multilin
 
 File 5. A C program that prints exactly with proper grammar, but the outcome is a piece of art,
 
+File 6. A C program that prits the sixe of  various types on the computer it is compiled and run on 
  
