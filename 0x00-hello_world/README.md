@@ -14,3 +14,5 @@ File 6. A C program that prits the sixe of  various types on the computer it is 
 
 File 7. A script that generates the assembly code (intel syntax) of a C code and save it in an output file 
  
+File 8. A C program that prints exactly and that piece of art is useful" - Dora Korpar, 2019-10-19 folloowed by a new ine, to the standard error 
+
