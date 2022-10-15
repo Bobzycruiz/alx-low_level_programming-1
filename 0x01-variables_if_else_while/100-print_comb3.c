@@ -22,7 +22,7 @@ int main(void)
 		if ((i == 57) && (j == 57))
 		{
 			putchar('\n');
-			i++;
+			
 			j++;
 		}
 		else
